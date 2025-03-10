@@ -7,7 +7,7 @@ Summary:	Use Search URLs in your Django Haystack Application
 Summary(pl.UTF-8):	Korzystanie z URL-i silnika wyszukiwarki w aplikacji Django Haystack
 Name:		python-dj_search_url
 Version:	0.1
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/dj-search-url/
